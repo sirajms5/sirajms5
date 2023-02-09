@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sirajms5
-- 👀 I’m interested in App and Web Development, im good at Android devlopment, SQL, html5, CSS3, javaScript, bootstrap, jquery, SASS, React, Redux, React-redux, Marked, d3 and Wordpress
+- 👀 I’m interested in Application and Web Development, im good at Android devlopment, SQL, html5, CSS3, javaScript, bootstrap, jquery, SASS, React, Redux, React-redux, Marked, d3 and Wordpress
 - 🌱 I’m currently starting up my upwork career as a freelancer
 - 💞️ I’m looking to collaborate with a web development team and grow together
 - 📫 Reach me at siraj@sirajsaleem.com, looking forward to work together

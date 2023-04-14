@@ -22,9 +22,9 @@
 <img alt="Java" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
 <br/>
 
-## :bar_chart: Stats
+<!-- ## :bar_chart: Stats
 
-![Siraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=sirajms5&show_icons=true&theme=gruvbox)
+ ![Siraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=sirajms5&show_icons=true&theme=gruvbox) -->
 
 <!---
 sirajms5/sirajms5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

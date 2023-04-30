@@ -20,7 +20,9 @@
 <img align="left" alt="Java" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
 <img align="left" alt="Java" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-original.svg"/>
 <img align="left" alt="Java" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
-<img alt="Java" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg"/>
+<img align="left" alt="Ruby" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg"/>
+<img alt="Ruby" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg"/>
+
 <br/>
 
  ## :bar_chart: Stats

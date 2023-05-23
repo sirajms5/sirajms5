@@ -3,7 +3,7 @@
 - 👀 I’m interested in Software Development, I have experience in Android application devlopment, Java, ruby, ruby on rails, XML, php, MySQL, html5, CSS3, javaScript, bootstrap, jquery, SASS, React, Redux, React-redux, Marked, d3 and Wordpress
 - :school: I’m currently studying computer programming at Algonquin College, and self-learning Ruby
 - 💞️ I’m looking forward to contact and meet developers.
-- 📫 Reach me at siraj@sirajsaleem.com, or visit <a href="https://www.sirajsaleem.com">my website</a>. Looking forward to work together,
+- 📫 Reach me at sirajms5@gmail.com. Looking forward to work together.
 <br/>
 
 ## :robot: Languages and Tools

@@ -36,8 +36,8 @@
 <img align="left" alt="ruby on rails" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg"/>
 <img align="left" alt="json" width="50px" src="https://sirajsaleem.com/images/portfolio/json.png"/>
 <img align="left" alt="firebase" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>
-<img align="left" alt="linux" width="50px" src="https://sirajsaleem.com/images/portfolio/linux-logo.png"/>
-<img align="left" alt="windows" width="50px" src="https://sirajsaleem.com/images/portfolio/windows.png"/>
+<img align="left" alt="linux" width="50px" src="https://sirajsaleem.com/images/portfolio/linux.svg"/>
+<img align="left" alt="windows" width="50px" src="https://sirajsaleem.com/images/portfolio/windows.svg"/>
 <img align="left" alt="vmware" width="50px" src="https://sirajsaleem.com/images/portfolio/vmware.png"/>
 <img align="left" alt="git" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 <img alt="github" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>

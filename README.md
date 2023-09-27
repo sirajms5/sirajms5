@@ -3,8 +3,7 @@
 - 👀 I aspire to become a software developer, looking for a coop opportunity.
 - :school: I’m currently studying computer programming at Algonquin College.
 - 📫 Reach me at moha1030@algonquinlive.com, or visit <a href="https://www.sirajsaleem.com">my website</a>. Looking forward to working together.
-<br/>
-#### Most of my repositories are private due to Algonquin College requirements.
+- <h3>Most of my repositories are private due to Algonquin College requirements.</h3>
 <br/>
 
 ## :robot: Back-End

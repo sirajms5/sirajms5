@@ -9,7 +9,7 @@
 ## :robot: Back-End
 
 <img title="Java" align="left" alt="Java" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
-<img title="Spring Boot" align="left" alt="Spring Boot" width="50px" src="https://sirajsaleem.com/images/portfolio/spring.svg"/>
+<img title="Spring" align="left" alt="Spring" width="50px" src="https://sirajsaleem.com/images/portfolio/spring.svg"/>
 <img title="PHP" align="left" alt="php" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
 <img title="Ruby" align="left" alt="Ruby" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg"/>
 <img title="MySQL" align="left" alt="mysql" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>

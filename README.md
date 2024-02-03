@@ -9,6 +9,7 @@
 ## :robot: Back-End
 
 <img title="Java" align="left" alt="Java" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
+<img title="Spring Boot" align="left" alt="Spring Boot" width="50px" src="https://sirajsaleem.com/images/portfolio/spring.svg"/>
 <img title="PHP" align="left" alt="php" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
 <img title="Ruby" align="left" alt="Ruby" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg"/>
 <img title="MySQL" align="left" alt="mysql" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
@@ -22,6 +23,8 @@
 <img title="HTML 5" align="left" alt="html" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
 <img title="CSS" align="left" alt="css" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
 <img title="JavaScript" align="left" alt="javascript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img title="TypeScript" align="left" alt="typescript" width="50px" src="https://sirajsaleem.com/images/portfolio/typescript.svg"/>
+<img title="Angular" align="left" alt="angular" width="50px" src="https://sirajsaleem.com/images/portfolio/angularjs.svg"/>
 <img title="Bootstrap" align="left" alt="bootstrap" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
 <img title="jQuery" align="left" alt="jquery" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"/>
 <img title="React" align="left" alt="react" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
